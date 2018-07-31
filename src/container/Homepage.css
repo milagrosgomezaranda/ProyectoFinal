@@ -1,0 +1,14 @@
+.HomepageContainer {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+}
+
+.ProductsContainer {
+	width: 75%;
+}
+
+.ShoppingListContainer {
+	width: 25%;
+}

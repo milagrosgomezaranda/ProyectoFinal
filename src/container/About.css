@@ -1,0 +1,16 @@
+.AboutContainer{
+
+}
+
+.AboutMainSection {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	margin: 2em;
+}
+
+.AboutText {
+	margin: 1em;
+	flex-wrap: wrap;
+}
